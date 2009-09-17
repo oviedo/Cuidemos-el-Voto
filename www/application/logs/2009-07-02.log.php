@@ -1,0 +1,11 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2009-07-02 05:44:02 +04:00 --- error: Uncaught PHP Error: readfile(http://www.cuidemoselvoto.org/twitter) [<a href='function.readfile'>function.readfile</a>]: failed to open stream: HTTP request failed!  in file application/views/twitter.php on line 25
+2009-07-02 05:44:02 +04:00 --- error: Uncaught PHP Error: readfile(http://www.cuidemoselvoto.org/twitter) [<a href='function.readfile'>function.readfile</a>]: failed to open stream: HTTP request failed!  in file application/views/twitter.php on line 25
+2009-07-02 05:52:11 +04:00 --- error: Uncaught PHP Error: readfile(http://www.cuidemoselvoto.org/twitter) [<a href='function.readfile'>function.readfile</a>]: failed to open stream: HTTP request failed!  in file application/views/twitter.php on line 25
+2009-07-02 05:56:17 +04:00 --- error: Uncaught PHP Error: readfile(http://www.cuidemoselvoto.org/twitter) [<a href='function.readfile'>function.readfile</a>]: failed to open stream: HTTP request failed!  in file application/views/twitter.php on line 25
+2009-07-02 05:56:17 +04:00 --- error: Uncaught PHP Error: readfile(http://www.cuidemoselvoto.org/twitter) [<a href='function.readfile'>function.readfile</a>]: failed to open stream: HTTP request failed!  in file application/views/twitter.php on line 25
+2009-07-02 05:58:14 +04:00 --- error: Uncaught PHP Error: readfile(http://www.cuidemoselvoto.org/twitter) [<a href='function.readfile'>function.readfile</a>]: failed to open stream: HTTP request failed!  in file application/views/twitter.php on line 25
+2009-07-02 05:58:14 +04:00 --- error: Uncaught PHP Error: readfile(http://www.cuidemoselvoto.org/twitter) [<a href='function.readfile'>function.readfile</a>]: failed to open stream: HTTP request failed!  in file application/views/twitter.php on line 25
+2009-07-02 05:59:35 +04:00 --- error: Uncaught PHP Error: readfile(http://www.cuidemoselvoto.org/twitter) [<a href='function.readfile'>function.readfile</a>]: failed to open stream: HTTP request failed!  in file application/views/twitter.php on line 25
+2009-07-02 06:05:31 +04:00 --- error: Uncaught PHP Error: readfile(http://www.cuidemoselvoto.org/twitter) [<a href='function.readfile'>function.readfile</a>]: failed to open stream: HTTP request failed!  in file application/views/twitter.php on line 25

@@ -1,0 +1,79 @@
+#results{
+background-color:#FFFFFF;
+border:0px solid #CCCCCC;
+margin-right:180px;
+padding:10px;
+width:700px;
+color:#5C5C5C;
+font-family:Helvetica,Arial,sans-serif;
+font-size:20px;
+font-size-adjust:none;
+font-stretch:normal;
+font-style:normal;
+font-variant:normal;
+font-weight:normal;
+line-height:normal;
+}
+#juitterContainer {
+}
+#juitterContainer .twittList {
+margin:0;
+padding:0;
+}
+#juitterContainer .twittLI {
+background:#FFFFFF none repeat scroll 0 0;
+border-bottom:1px dashed #CAF8C9;
+clear:both;
+height:90px;
+list-style-image:none;
+list-style-position:outside;
+list-style-type:none;
+margin:0;
+padding:3px;
+}
+#juitterContainer .twittList a {
+color:#FF0071;
+}
+#juitterContainer .juitterAvatar {
+background:#FFFFFF none repeat scroll 0 0;
+border:1px solid #D3EECA;
+float:left;
+height:48px;
+margin-right:5px;
+padding:2px;
+width:48px;
+}
+#juitterContainer .jRM {
+/*clear:both;*/
+float:right;
+}
+#juitterContainer .extLink {
+}
+#juitterContainer .hashLink {
+}
+#content ul.nav {
+margin:0;
+padding:0;
+}
+#results ul.nav li {
+color:#A4D630;
+float:left;
+list-style-image:none;
+list-style-position:outside;
+list-style-type:none;
+margin:0;
+padding:0 5px;
+}
+#results ul.nav li a {
+color:#0074AE;
+display:block;
+font-size:1.2em;
+font-weight:bold;
+}
+#results ul.nav li a:hover {
+color:#ACD030;
+}
+#results ul.nav li a.on {
+color:#58AA00;
+font-size:1.2em;
+}

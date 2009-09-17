@@ -1,0 +1,8 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2009-07-17 07:05:09 +04:00 --- error: Uncaught PHP Error: mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in file system/libraries/drivers/Database/Mysql.php on line 61
+2009-07-17 07:05:13 +04:00 --- error: Uncaught PHP Error: mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in file system/libraries/drivers/Database/Mysql.php on line 61
+2009-07-17 07:05:28 +04:00 --- error: Uncaught PHP Error: mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in file system/libraries/drivers/Database/Mysql.php on line 61
+2009-07-17 07:15:29 +04:00 --- error: Uncaught PHP Error: mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in file system/libraries/drivers/Database/Mysql.php on line 61
+2009-07-17 07:15:35 +04:00 --- error: Uncaught PHP Error: mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in file system/libraries/drivers/Database/Mysql.php on line 61
+2009-07-17 07:15:36 +04:00 --- error: Uncaught PHP Error: mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in file system/libraries/drivers/Database/Mysql.php on line 61

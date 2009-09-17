@@ -1,0 +1,16 @@
+	<div id="results">
+		<ul class="nav">
+
+					<li><a rel="nofollow" class="jLinks on" id="todos" href="#todos">Todos</a></li>
+
+					<li>|</li>
+
+					<li><a rel="nofollow" class="jLinks" id="cuidemoselvoto" href="#cuidemoselvoto">cuidemoselvoto</a></li>
+
+					<li>|</li>
+
+					<li><a rel="nofollow" class="jLinks" id="votonulo" href="#votonulo">Voto nulo</a></li>
+
+				</ul>
+	<div id="juitterContainer"></div>
+	</div>
